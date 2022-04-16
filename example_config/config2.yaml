@@ -1,0 +1,14 @@
+group-delimiter: "-"
+inflate-by-case: false
+groups: [
+  [
+    [ 'JOHN', 'John', 'john' ],
+    [ 'DOE', 'Doe', 'doe' ],
+    [ '091187' ]
+  ],
+  [
+    [ 'JANE', 'Jane', 'jane' ],
+    [ 'DOE', 'Doe', 'doe' ],
+    [ '041296' ]
+  ]
+]

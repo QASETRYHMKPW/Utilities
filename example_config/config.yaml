@@ -1,0 +1,9 @@
+group-delimiter: "-"
+inflate-by-case: true
+groups: [
+  [
+    [ 'john', 'dave','windy' ],
+    [ 'doe' ],
+    [ '12984' ]
+  ]
+]
